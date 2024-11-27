@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="colorPrimary">#303F9F</color>
+    <color name="colorDark">#212121</color>
+    <color name="colorSecondary">#145975</color>
+
+<!--    caracteristicas boton => fondo negro, texto blanco-->
+    <color name="buttonBackground">#000000</color>
+    <color name="buttonText">#FFFFFF</color>
+
+</resources>

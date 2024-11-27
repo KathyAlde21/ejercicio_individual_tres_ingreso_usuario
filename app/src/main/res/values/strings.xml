@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ejercicio_individual_tres</string>
+
+    <string name="sName">Nombre</string>
+    <string name="sPass">Contraseña</string>
+    <string name="sEmail">Email</string>
+
+    <string name="sHintName">Ingresa tu nombre de usuario</string>
+    <string name="sHintPass">Ingresa tu contraseña</string>
+    <string name="sHintEmail">Ingresa tu email</string>
+
+    <string name="sBtn">Enviar</string>
+
+</resources>
